@@ -1,0 +1,7 @@
+const SchoolPage=(props)=>{
+    return (
+        <>
+            
+        </>
+    )
+}
