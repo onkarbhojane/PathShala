@@ -1,0 +1,26 @@
+.current {
+    background-color: rgb(193, 184, 184); /* This will set the background color to gray */
+    border-radius: 10px;
+}
+  
+/* Style for the active link */
+.current {
+    background-color: rgb(176, 166, 166); /* Set the background color to gray */
+    color: white; /* Optional: Change the text color to white for better contrast */
+    border-radius: 10px;
+  }
+  
+  /* Default styling for nav links */
+  .nav-link {
+    color: black; /* Default text color for links */
+    text-decoration: none; /* Remove underline */
+    border-radius: 10px;
+  }
+  
+  /* Style for the nav link on hover */
+  .nav-link:hover {
+    background-color: lightgray; /* Change background color on hover */
+    color: black; /* Optional: Change text color on hover */
+    border-radius: 10px;
+  }
+  
